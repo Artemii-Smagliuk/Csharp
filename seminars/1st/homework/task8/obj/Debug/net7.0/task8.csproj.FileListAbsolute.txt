@@ -1,0 +1,15 @@
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\bin\Debug\net7.0\task8.exe
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\bin\Debug\net7.0\task8.deps.json
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\bin\Debug\net7.0\task8.runtimeconfig.json
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\bin\Debug\net7.0\task8.dll
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\bin\Debug\net7.0\task8.pdb
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\task8.csproj.AssemblyReference.cache
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\task8.AssemblyInfoInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\task8.AssemblyInfo.cs
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\task8.csproj.CoreCompileInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\task8.dll
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\refint\task8.dll
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\task8.pdb
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\task8.genruntimeconfig.cache
+C:\Users\dude\GeekBrains\C#\seminars\1st\homework\task8\obj\Debug\net7.0\ref\task8.dll
