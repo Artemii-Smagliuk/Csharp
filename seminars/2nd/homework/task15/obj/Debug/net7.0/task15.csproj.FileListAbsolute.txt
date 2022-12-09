@@ -1,0 +1,15 @@
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\task15.csproj.AssemblyReference.cache
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\task15.AssemblyInfoInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\task15.AssemblyInfo.cs
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\task15.csproj.CoreCompileInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\bin\Debug\net7.0\task15.exe
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\bin\Debug\net7.0\task15.deps.json
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\bin\Debug\net7.0\task15.runtimeconfig.json
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\bin\Debug\net7.0\task15.dll
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\bin\Debug\net7.0\task15.pdb
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\task15.dll
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\refint\task15.dll
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\task15.pdb
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\task15.genruntimeconfig.cache
+C:\Users\dude\GeekBrains\C#\seminars\2nd\homework\task15\obj\Debug\net7.0\ref\task15.dll
