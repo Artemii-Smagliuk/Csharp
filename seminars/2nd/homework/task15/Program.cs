@@ -7,7 +7,7 @@
 Console.Clear();
 Console.Write("Введите цифру, обозначающую день недели: ");
 int day = int.Parse(Console.ReadLine());
-if (day < 5)
+if (day < 6)
 {
     Console.Write("Этот день не выходной :(");
 }
