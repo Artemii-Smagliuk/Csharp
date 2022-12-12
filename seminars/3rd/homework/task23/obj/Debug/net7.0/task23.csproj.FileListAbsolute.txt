@@ -1,0 +1,15 @@
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\bin\Debug\net7.0\task23.exe
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\bin\Debug\net7.0\task23.deps.json
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\bin\Debug\net7.0\task23.runtimeconfig.json
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\bin\Debug\net7.0\task23.dll
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\bin\Debug\net7.0\task23.pdb
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\task23.csproj.AssemblyReference.cache
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\task23.AssemblyInfoInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\task23.AssemblyInfo.cs
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\task23.csproj.CoreCompileInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\task23.dll
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\refint\task23.dll
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\task23.pdb
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\task23.genruntimeconfig.cache
+C:\Users\dude\GeekBrains\C#\seminars\3rd\homework\task23\obj\Debug\net7.0\ref\task23.dll
