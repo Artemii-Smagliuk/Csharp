@@ -1,0 +1,15 @@
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\3rd.csproj.AssemblyReference.cache
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\3rd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\3rd.AssemblyInfoInputs.cache
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\3rd.AssemblyInfo.cs
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\3rd.csproj.CoreCompileInputs.cache
+C:\Users\dude\GeekBrains\C#\lections\3rd\bin\Debug\net7.0\3rd.exe
+C:\Users\dude\GeekBrains\C#\lections\3rd\bin\Debug\net7.0\3rd.deps.json
+C:\Users\dude\GeekBrains\C#\lections\3rd\bin\Debug\net7.0\3rd.runtimeconfig.json
+C:\Users\dude\GeekBrains\C#\lections\3rd\bin\Debug\net7.0\3rd.dll
+C:\Users\dude\GeekBrains\C#\lections\3rd\bin\Debug\net7.0\3rd.pdb
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\3rd.dll
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\refint\3rd.dll
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\3rd.pdb
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\3rd.genruntimeconfig.cache
+C:\Users\dude\GeekBrains\C#\lections\3rd\obj\Debug\net7.0\ref\3rd.dll
