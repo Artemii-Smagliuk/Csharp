@@ -49,4 +49,4 @@ int GetNumber(string text)
 
 int b = GetNumber("Введите число: ");
 int num = AmmountOfDigits(b);
-Console.WriteLine("Сумма чисел равна " + num);
+Console.WriteLine("Количество цифр в числе: " + num);

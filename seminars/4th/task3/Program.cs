@@ -18,6 +18,7 @@ int CompOfNumbers(int num2)
         result = result*i;
     }
     return result;
+    
 }
 
 int num2 = GetNumber("Введите число: ");

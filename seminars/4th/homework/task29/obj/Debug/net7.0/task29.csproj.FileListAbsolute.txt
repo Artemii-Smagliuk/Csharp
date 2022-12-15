@@ -1,0 +1,15 @@
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\task29.csproj.AssemblyReference.cache
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\task29.AssemblyInfoInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\task29.AssemblyInfo.cs
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\task29.csproj.CoreCompileInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\bin\Debug\net7.0\task29.exe
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\bin\Debug\net7.0\task29.deps.json
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\bin\Debug\net7.0\task29.runtimeconfig.json
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\bin\Debug\net7.0\task29.dll
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\bin\Debug\net7.0\task29.pdb
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\task29.dll
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\refint\task29.dll
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\task29.pdb
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\task29.genruntimeconfig.cache
+C:\Users\dude\GeekBrains\C#\seminars\4th\homework\task29\obj\Debug\net7.0\ref\task29.dll
