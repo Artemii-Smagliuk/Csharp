@@ -1,0 +1,15 @@
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\bin\Debug\net7.0\task54.exe
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\bin\Debug\net7.0\task54.deps.json
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\bin\Debug\net7.0\task54.runtimeconfig.json
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\bin\Debug\net7.0\task54.dll
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\bin\Debug\net7.0\task54.pdb
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\task54.csproj.AssemblyReference.cache
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\task54.AssemblyInfoInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\task54.AssemblyInfo.cs
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\task54.csproj.CoreCompileInputs.cache
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\task54.dll
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\refint\task54.dll
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\task54.pdb
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\task54.genruntimeconfig.cache
+C:\Users\dude\GeekBrains\C#\seminars\8th\hw\task54\obj\Debug\net7.0\ref\task54.dll
